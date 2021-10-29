@@ -5,6 +5,7 @@
 }
 body{
     width: 1440px;
+    background-color: #33691E;
     margin: auto;
 }
 a{
@@ -13,9 +14,10 @@ a{
 }
 .container{
     display: block;
-    background-color: rgb(75, 17, 184);
+    background-color: #8BC34A;
+    /* opacity: 0.5; */
     width: 50%;
-    height: 350px;
+    height: 650px;
     border-radius: 20px;
     margin: auto;
     text-align: center;
@@ -25,4 +27,8 @@ audio{
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
+}
+img{
+    margin: 25px;
+    border-radius: 25px;
 }
