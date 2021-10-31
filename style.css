@@ -32,3 +32,6 @@ img{
     margin: 25px;
     border-radius: 25px;
 }
+img:hover{
+    opacity: 0.5;
+}
